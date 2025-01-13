@@ -25,6 +25,5 @@ This project is a simple ray tracing implementation written in C that renders a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/raytracing.git
-   cd raytracing
+   git clone https://github.com/Zenitsuisme/Ray-Tracing-Sphere-Renderer.git
 
